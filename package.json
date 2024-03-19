@@ -1,0 +1,36 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.",
+  "main": "index.js",
+  "scripts": {
+    "test": "Manual Testing",
+    "start": "node index.js",
+    "watch": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manasavijay09/Social-Network-API.git"
+  },
+  "author": "Manasa",
+  "license": "MIT",
+  "dependencies": {
+    "dayjs": "^1.11.10",
+    "express": "^4.18.3",
+    "mongoose": "^8.2.2"
+    
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "bugs": {
+    "url": "https://github.com/manasavijay09/Social-Network-API/issues"
+  },
+  
+  "homepage": "https://github.com/manasavijay09/Social-Network-API#readme"
+
+
+
+}
+
+
