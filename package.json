@@ -18,7 +18,6 @@
     "dayjs": "^1.11.10",
     "express": "^4.18.3",
     "mongoose": "^8.2.2"
-    
   },
   "devDependencies": {
     "nodemon": "^3.1.0"
@@ -26,11 +25,5 @@
   "bugs": {
     "url": "https://github.com/manasavijay09/Social-Network-API/issues"
   },
-  
   "homepage": "https://github.com/manasavijay09/Social-Network-API#readme"
-
-
-
 }
-
-

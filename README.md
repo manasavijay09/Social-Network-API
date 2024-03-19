@@ -41,5 +41,7 @@ gitHub repo: https://github.com/manasavijay09/Social-Network-API
 
 
 
+  get all user insomnia screen shot: ![alt text](<Screenshot (9).png>)
 
+  Get all thoughts: ![alt text](<Screenshot (10).png>)
 
